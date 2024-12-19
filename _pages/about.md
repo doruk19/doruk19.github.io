@@ -5,8 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-======
+
 Hello there! I am a Ph.D. candidate at the [University of Maryland](https://www.cs.umd.edu/people/dgur1) advised by [Jonathan Katz](http://www.cs.umd.edu/~jkatz/). In 2019, I got my M.Sc. from New Jersey Institute of Technology under the supervision of [Kurt Rohloff](https://web.njit.edu/~rohloff/) (and unofficially [Yuriy Polyakov](https://ypolyakov.gitlab.io/)).
 
 I work on lattice multiparty protocols. That is any protocol that includes multiple interacting parties with their own private data and utilizes lattice based primitives. I am also interested in threshold cryptography, oblivious pseudorandom functions, homomorphic encryption, digital signatures and lattice/post quantum cryptography and secure multiparty computation in general.
