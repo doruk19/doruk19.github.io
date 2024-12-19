@@ -10,55 +10,47 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* **Ph.D in Computer Science**, University of Maryland, 2025 (expected) \\
+  Advisor: Jonathan Katz
+* **M.Sc. in Computer Science**, New Jersey Institute of Technology, 2019 \\
+  Advisor: Kurt Rohloff \\
+  Thesis: Efficient Lattice Trapdoors and Their Applications
+* **B.Sc. in Computer Science**, Sabanci University, 2017
 
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+Please see the [publications page](/publications).
+
+Research
+------
+* **SandboxAQ** \\
+  PQC Research Scientist Resident (2023-2024)
+* **NJIT** \\
+  Research Programmer (2016-2019)  
+
+Teaching(TAship)
+-----
+* **UMD** \\
+  CMSC818L(Fantastic Zero Knowledge Proofs and How to Use Them): Fall 2024\\
+  CMSC657(Introduction to Quantum Information Processing): Fall 2022 \\
+  CMSC456(Introudction to Cryptography): Spring 2022\\
+  CMSC858T(Introduction to Secure Distributed Computing): Spring 2021 \\
+  CMSC451(Design and Analysis of Computer Algorithms): Fall 2020, Fall 2021 \\
+  CMSC414(Computer and Network Security): Fall 2019 
+
+* **Sabanci University** \\
+  CS201(Introduction to Computing): Spring 2017 \\
+  MATH101/102(Calculus 101/102): Fall 2014-Fall 2016
+
+Service
+-----
+* **Program Committee**: [WAHC](https://homomorphicencryption.org/wahc-2024/) (2024)
+* **External Reviewer**: [Eurocrypt](https://eurocrypt.iacr.org/) (2024-25), [Asiacrypt](https://asiacrypt.iacr.org/) (2024)
+
+Awards & Fellowships
+-----
+* UMD Dean's Fellowship
+* Sabanci University Dean's High Honor List
+* Sakip Sabanci High Honor Scholarship
+* Turkish Prime Ministry High Honor Scholarship
