@@ -32,9 +32,10 @@ Research
 Teaching(TAship)
 -----
 * **UMD** \\
+  CMSC656(Introduction to Cryptography): Spring 2025 \\
   CMSC818L(Fantastic Zero Knowledge Proofs and How to Use Them): Fall 2024\\
   CMSC657(Introduction to Quantum Information Processing): Fall 2022 \\
-  CMSC456(Introudction to Cryptography): Spring 2022\\
+  CMSC456(Introduction to Cryptography): Spring 2022\\
   CMSC858T(Introduction to Secure Distributed Computing): Spring 2021 \\
   CMSC451(Design and Analysis of Computer Algorithms): Fall 2020, Fall 2021 \\
   CMSC414(Computer and Network Security): Fall 2019 
@@ -46,7 +47,7 @@ Teaching(TAship)
 Service
 -----
 * **Program Committee**: [WAHC](https://homomorphicencryption.org/wahc-2024/) (2024)
-* **External Reviewer**: [Eurocrypt](https://eurocrypt.iacr.org/) (2024-25), [Asiacrypt](https://asiacrypt.iacr.org/) (2024)
+* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-25) 
 
 Awards & Fellowships
 -----

@@ -16,7 +16,7 @@ All author names are given in alphabetical order. Speakers are marked with *.
 * **Verifiable Oblivious Pseudorandom Functions from Lattices: Practical-ish and Thresholdisable** \\
     Martin R. Albrecht and **Kamil Doruk Gur* \\
     Asiacrypt 2024 \\
-    [[eprint]](https://eprint.iacr.org/2024/1459.pdf) [[proceedings]]() [[talk]]()
+    [[eprint]](https://eprint.iacr.org/2024/1459.pdf) [[proceedings]](https://link.springer.com/chapter/10.1007/978-981-96-0894-2_7) [[talk]](https://youtu.be/tU7vuHCaDOk?si=rAU3HfdN1XrkB9dg&t=1394)
 * **Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption** \\
     **Kamil Doruk Gur*, Jonathan Katz, and Tjerand Silde \\
     PQCrypto 2024 \\
