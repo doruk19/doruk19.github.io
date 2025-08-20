@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ------
-* **Ph.D in Computer Science**, University of Maryland, 2025 (expected) \\
-  Advisor: Jonathan Katz
+* **Ph.D in Computer Science**, University of Maryland, 2025 \\
+  Advisor: Jonathan Katz \\
+  Dissertation: Practical Multiparty Protocols From Lattice Assumptions: Threshold Signatures, Oblivious Pseudorandom Functions, And More
 * **M.Sc. in Computer Science**, New Jersey Institute of Technology, 2019 \\
   Advisor: Kurt Rohloff \\
   Thesis: Efficient Lattice Trapdoors and Their Applications
