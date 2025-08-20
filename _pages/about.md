@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am a Ph.D. candidate at the [University of Maryland](https://www.cs.umd.edu/people/dgur1) advised by [Jonathan Katz](http://www.cs.umd.edu/~jkatz/). In 2019, I got my M.Sc. from New Jersey Institute of Technology under the supervision of [Kurt Rohloff](https://web.njit.edu/~rohloff/) (and unofficially [Yuriy Polyakov](https://ypolyakov.gitlab.io/)).
+Hello there! I am a cryptographer working on the applied parts of post-quantum cryptography. I got my Ph.D. in 2025 from [University of Maryland](https://www.cs.umd.edu/people/dgur1) under the supervision of [Jonathan Katz](http://www.cs.umd.edu/~jkatz/). Prior to that, I got my M.Sc. from New Jersey Institute of Technology under the supervision of [Kurt Rohloff](https://web.njit.edu/~rohloff/) (and unofficially [Yuriy Polyakov](https://ypolyakov.gitlab.io/)).
 
 I work on lattice multiparty protocols. That is any protocol that includes multiple interacting parties with their own private data and utilizes lattice based primitives. I am also interested in threshold cryptography, oblivious pseudorandom functions, homomorphic encryption, digital signatures and lattice/post quantum cryptography and secure multiparty computation in general.
 
@@ -28,5 +28,6 @@ Name FAQ
 
 News
 -----
+* **2025-04-04**: I have successfully defended my dissertation [Practical Multiparty Protocols From Lattice Assumptions: Threshold Signatures, Oblivious Pseudorandom Functions, And More](http://hdl.handle.net/1903/34262)!
 * **2024-12-19**: I finally caved and created this webpage (I can neither deny nor confirm the graduation approaching had an effect). Thank you [AcademicPages](https://academicpages.github.io/) for making this process easy.
 
