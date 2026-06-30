@@ -25,6 +25,8 @@ Please see the [publications page](/publications).
 
 Research
 ------
+* **NTNU** \\
+  Postdoctoral Researcher (2026-)
 * **SandboxAQ** \\
   PQC Research Scientist Resident (2023-2024)
 * **NJIT** \\
@@ -48,7 +50,7 @@ Teaching(TAship)
 Service
 -----
 * **Program Committee**: [WAHC](https://homomorphicencryption.org/wahc-2024/) (2024)
-* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-25) 
+* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024,2026), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-25) 
 
 Awards & Fellowships
 -----

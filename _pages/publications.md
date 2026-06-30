@@ -11,6 +11,13 @@ You can also find my up to date list of publications on my [Google Scholar](http
 
 All author names are given in alphabetical order. Speakers are marked with *.
 
+2025
+------
+* **Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort** \\
+    **Kamil Doruk Gur*, Patrick Hough, Jonathan Katz, Caroline Sandsbråten, and Tjerand Silde \\
+    ACM CCS 2026\\
+    [[eprint]](https://eprint.iacr.org/2025/1789.pdf) 
+
 2024
 ------
 * **Verifiable Oblivious Pseudorandom Functions from Lattices: Practical-ish and Thresholdisable** \\
