@@ -49,8 +49,8 @@ Teaching(TAship)
 
 Service
 -----
-* **Program Committee**: [WAHC](https://homomorphicencryption.org/wahc-2024/) (2024)
-* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024,2026), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-25) 
+* **Program Committee**: [WAHC](https://homomorphicencryption.org/wahc-2024/) (2024-25)
+* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024,2026), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-26), [PKC](https://pkc.iacr.org) (2027), [DCC](https://link.springer.com/journal/10623) 
 
 Awards & Fellowships
 -----
