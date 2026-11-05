@@ -32,9 +32,9 @@ Research
 * **NJIT** \\
   Research Programmer (2016-2019)  
 
-Teaching(TAship)
+Teaching
 -----
-* **UMD** \\
+* **UMD (TA)** \\
   CMSC656(Introduction to Cryptography): Spring 2025 \\
   CMSC818L(Fantastic Zero Knowledge Proofs and How to Use Them): Fall 2024\\
   CMSC657(Introduction to Quantum Information Processing): Fall 2022 \\
@@ -43,14 +43,14 @@ Teaching(TAship)
   CMSC451(Design and Analysis of Computer Algorithms): Fall 2020, Fall 2021 \\
   CMSC414(Computer and Network Security): Fall 2019 
 
-* **Sabanci University** \\
+* **Sabanci University (TA)** \\
   CS201(Introduction to Computing): Spring 2017 \\
   MATH101/102(Calculus 101/102): Fall 2014-Fall 2016
 
 Service
 -----
 * **Program Committee**: [WAHC](https://homomorphicencryption.org/wahc-2024/) (2024-25)
-* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024,2026), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-26), [PKC](https://pkc.iacr.org) (2027), [DCC](https://link.springer.com/journal/10623) 
+* **External Reviewer**: [Asiacrypt](https://asiacrypt.iacr.org/) (2024,2026), [Crypto](https://crypto.iacr.org/) (2025), [Eurocrypt](https://eurocrypt.iacr.org/) (2024-27), [PKC](https://pkc.iacr.org) (2027), [DCC](https://link.springer.com/journal/10623) 
 
 Awards & Fellowships
 -----

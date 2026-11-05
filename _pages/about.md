@@ -28,6 +28,7 @@ Name FAQ
 
 News
 -----
+* **2026-11-05**: I will be at [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html) and [WAHC 2026](https://homomorphicencryption.org/wahc-2026-14th-workshop-on-encrypted-computing-applied-homomorphic-cryptography/) afterwards, feel free to come say hi!
 * **2026-06-02**: I started as a postdoctoral researcher at NTNU.
 * **2025-04-04**: I have successfully defended my dissertation [Practical Multiparty Protocols From Lattice Assumptions: Threshold Signatures, Oblivious Pseudorandom Functions, And More](http://hdl.handle.net/1903/34262)!
 * **2024-12-19**: I finally caved and created this webpage (I can neither deny nor confirm the graduation approaching had an effect). Thank you [AcademicPages](https://academicpages.github.io/) for making this process easy.
