@@ -9,12 +9,18 @@ redirect_from:
 
 You can also find my up to date list of publications on my [Google Scholar](https://scholar.google.com/citations?user=dNpTQUQAAAAJ&hl=en) and [dblp](https://dblp.org/pid/216/6102.html) profiles.
 
-All author names are given in alphabetical order. Speakers are marked with *.
+All author names are given in alphabetical order unless it matches the publication. Speakers are marked with *.
+
+2026
+------
+* **Private Computation Tokens** \\
+    Maurice Shih, Harikesh Kailad, *Kamil Doruk Gur*, Pratyush Mishra, and Ian Miers \\
+    NDSS 2027
 
 2025
 ------
 * **Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort** \\
-    **Kamil Doruk Gur*, Patrick Hough, Jonathan Katz, Caroline Sandsbråten, and Tjerand Silde \\
+    **Kamil Doruk Gur*, *Patrick Hough, Jonathan Katz, Caroline Sandsbråten, and Tjerand Silde \\
     ACM CCS 2026\\
     [[eprint]](https://eprint.iacr.org/2025/1789.pdf) 
 
@@ -23,11 +29,14 @@ All author names are given in alphabetical order. Speakers are marked with *.
 * **Verifiable Oblivious Pseudorandom Functions from Lattices: Practical-ish and Thresholdisable** \\
     Martin R. Albrecht and **Kamil Doruk Gur* \\
     Asiacrypt 2024 \\
-    [[eprint]](https://eprint.iacr.org/2024/1459.pdf) [[proceedings]](https://link.springer.com/chapter/10.1007/978-981-96-0894-2_7) [[talk]](https://youtu.be/tU7vuHCaDOk?si=rAU3HfdN1XrkB9dg&t=1394)
+    [[eprint]](https://eprint.iacr.org/2024/1459.pdf) [[proceedings]](https://link.springer.com/chapter/10.1007/978-981-96-0894-2_7) [[talk]](https://youtu.be/tU7vuHCaDOk?t=1394)
+
+2023
+------
 * **Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption** \\
     **Kamil Doruk Gur*, Jonathan Katz, and Tjerand Silde \\
     PQCrypto 2024 \\
-    [[eprint]](https://eprint.iacr.org/2023/1318.pdf) [[proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-62746-0_12) [[talk]](https://youtu.be/XObVgQkhUNw?si=Mj2CH-VlXm_ARmbQ)
+    [[eprint]](https://eprint.iacr.org/2023/1318.pdf) [[proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-62746-0_12) [[talk]](https://youtu.be/XObVgQkhUNw)
 
 2019
 ------
@@ -45,4 +54,4 @@ All author names are given in alphabetical order. Speakers are marked with *.
 * **Implementing Conjunction Obfuscation Under Entropic Ring LWE** \\
     David Bruce Cousins, Giovanni Di Crescenzo, *Kamil Doruk Gur*, Kevin King, *Yuriy Polyakov, Kurt Rohloff, Gerard W. Ryan, and Erkay Savas¸ \\
     IEEE S&P 2018 \\
-    [[eprint]](https://eprint.iacr.org/2017/844.pdf) [[proceedings]](https://www.computer.org/csdl/proceedings-article/sp/2018/435301a354/12OmNCcKQnS) [[talk]](https://youtu.be/ODLNfw2pGs8?si=WVveHwAg8-fk9gjG)
+    [[eprint]](https://eprint.iacr.org/2017/844.pdf) [[proceedings]](https://www.computer.org/csdl/proceedings-article/sp/2018/435301a354/12OmNCcKQnS) [[talk]](https://youtu.be/ODLNfw2pGs8)
